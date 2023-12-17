@@ -40,17 +40,8 @@
 ###
 <br clear="both">
 <div align="center">
-  <a href="https://github.com/ayuly0/Xulium">
-    <image src="https://github-readme-stats.vercel.app/api/pin/?username=ayuly0&repo=Xulium&tokyonight"></image>
-  </a>
-  <a href="https://github.com/ayuly0/Lizp">
-    <image src="https://github-readme-stats.vercel.app/api/pin/?username=ayuly0&repo=Lizp"></image>
-  </a>
-  <a href="https://github.com/ayuly0/NsfwImageDownloader">
-    <image src="https://github-readme-stats.vercel.app/api/pin/?username=ayuly0&repo=NsfwImageDownloader"></image>
-  </a>
-  <a href="https://github.com/ayuly0/Soix">
-    <image src="https://github-readme-stats.vercel.app/api/pin/?username=ayuly0&repo=Soix"></image>
+  <a href="https://github.com/ayuly0/">
+    <image src="https://discord-readme-badge.vercel.app/api?id=887189766339166239"></image>
   </a>
 </div>
 
