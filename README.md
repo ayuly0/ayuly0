@@ -40,8 +40,17 @@
 ###
 <br clear="both">
 <div class="center">
-  <a href="#">
-    <image src="https://github-readme-stats.vercel.app/api/pin/?username=ayuly0&repo=Luxy"></image>
+  <a href="https://github.com/ayuly0/Xulium">
+    <image src="https://github-readme-stats.vercel.app/api/pin/?username=ayuly0&repo=Xulium"></image>
+  </a>
+  <a href="https://github.com/ayuly0/Lizp">
+    <image src="https://github-readme-stats.vercel.app/api/pin/?username=ayuly0&repo=Lizp"></image>
+  </a>
+  <a href="https://github.com/ayuly0/NsfwImageDownloader">
+    <image src="https://github-readme-stats.vercel.app/api/pin/?username=ayuly0&repo=NsfwImageDownloader"></image>
+  </a>
+  <a href="https://github.com/ayuly0/Soix">
+    <image src="https://github-readme-stats.vercel.app/api/pin/?username=ayuly0&repo=Soix"></image>
   </a>
 </div>
 
