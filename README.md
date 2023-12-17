@@ -60,8 +60,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ayuly0/ayuly0/output/snake.svg" alt="Snake animation" />
 </div>
+
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ayuly0/count.svg?"  />
 </div>
+
+###
