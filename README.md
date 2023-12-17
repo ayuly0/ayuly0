@@ -39,7 +39,7 @@
 
 ###
 <br clear="both">
-<div class="center">
+<div align="center">
   <a href="https://github.com/ayuly0/Xulium">
     <image src="https://github-readme-stats.vercel.app/api/pin/?username=ayuly0&repo=Xulium"></image>
   </a>
