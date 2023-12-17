@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is ayuly0 and I'm a student high school</h2>
+<h2 align="center">Sup ¯\_(ツ)_/¯! My name is ayuly0 and I'm a student high school</h2>
 
 ###
 
