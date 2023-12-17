@@ -41,7 +41,7 @@
 <br clear="both">
 <div align="center">
   <a href="https://github.com/ayuly0/Xulium">
-    <image src="https://github-readme-stats.vercel.app/api/pin/?username=ayuly0&repo=Xulium"></image>
+    <image src="https://github-readme-stats.vercel.app/api/pin/?username=ayuly0&repo=Xulium&tokyonight"></image>
   </a>
   <a href="https://github.com/ayuly0/Lizp">
     <image src="https://github-readme-stats.vercel.app/api/pin/?username=ayuly0&repo=Lizp"></image>
