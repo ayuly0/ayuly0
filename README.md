@@ -1,5 +1,3 @@
-<h2 align="center">Sup <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /> ! My name is ayuly and I'm a student high school</h2>
-
 <h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /> Hi, I'm Ayuly, and I love malware development and penetration testing.</h4>
 
 ###
