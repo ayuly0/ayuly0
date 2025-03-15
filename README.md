@@ -38,14 +38,6 @@
 </div>
 
 ###
-<br clear="both">
-<div align="center">
-  <a href="https://github.com/ayuly0/">
-    <image src="https://discord-readme-badge.vercel.app/api?id=887189766339166239"></image>
-  </a>
-</div>
-
-###
 
 <br clear="both">
 <div align="center">
