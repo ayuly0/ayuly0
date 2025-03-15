@@ -33,7 +33,17 @@
   <a href="https://t.me/ayuly" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
+  <a href="#ayuly@jabb3r.de" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/XMPP_logo.svg" width="47" height="35" alt="xmpp logo"  />
+  </a>
+  <a href="bc1q9y6r7c0cdvv84zrggqvd35yxdjupxdflyhskkz" target="_blank">
+    <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/refs/heads/master/128/color/btc.png" width="35" height="35" alt="btc logo"  />
+  </a>
+  <a href="b87b3JpqDnKLAzFkuk1wkrQBXKTKHVG7RmdTcVKyaGjSMDrhm4ZxtviVXE25mNv5NB7YWs61qLHvs75AHqxU" target="_blank">
+    <img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/refs/heads/master/128/color/xmr.png" width="35" height="35" alt="xmr logo"  />
+  </a>
 </div>
+
 
 ###
 
