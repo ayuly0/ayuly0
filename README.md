@@ -30,7 +30,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/ayuly" target="_blank">
+  <a href="https://t.me/ayuly0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
   <a href="#ayuly@jabb3r.de" target="_blank">
